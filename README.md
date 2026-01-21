@@ -3,10 +3,11 @@
 A simple tool to synchronize your **RallySimFans (RSF)** records with your local **Richard Burns Rally** database (RaceStat plugin).
 
 ## How to use
-1. **RBR Folder Path**: Select your main Richard Burns Rally installation folder.
-2. **RSF User ID**: Enter your numeric User ID (see instructions below).
-3. **PHPSESSID**: Enter your active session cookie (see instructions below).
-4. **Start Sync**: Click the button and wait for the process to finish.
+1. Go to Release and download .exe file or go to installation part if u dont want to use .exe file
+2. **RBR Folder Path**: Select your main Richard Burns Rally installation folder.
+3. **RSF User ID**: Enter your numeric User ID (see instructions below).
+4. **PHPSESSID**: Enter your active session cookie (see instructions below).
+5. **Start Sync**: Click the button and wait for the process to finish.
 
 ---
 
