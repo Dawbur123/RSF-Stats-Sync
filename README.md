@@ -43,4 +43,4 @@ Ensure you have Python installed, then run the following commands in your termin
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python FetchRSFRecords.py
